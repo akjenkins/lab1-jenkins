@@ -7,6 +7,6 @@ The opacity of the photos was interesting to figure out, but I did (I also was t
 Overall, I enjoyed the process and am proud of what I did.
 
 ## Images
-![layout](images/layout-screenshot.jpg)
+![layout](images/layout-screenshot.PNG)
 
 ## Mimicked https://flourbakery.com/
